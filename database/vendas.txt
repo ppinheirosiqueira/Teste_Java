@@ -1,0 +1,10 @@
+Ana Silva,12,21,5200
+Ana Silva,01,22,4000
+Ana Silva,02,22,4200
+Ana Silva,03,22,5850
+Ana Silva,04,22,7000
+Joao Mendes,12,21,3400
+Joao Mendes,01,22,7700
+Joao Mendes,02,22,5000
+Joao Mendes,03,22,5900
+Joao Mendes,04,22,6500
